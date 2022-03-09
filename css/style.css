@@ -109,7 +109,7 @@
         border: #fd0061 solid 3px;
         width: 65px;
         height: 30px;
-        font-size: 8.1px; }
+        font-size: 8.2px; }
   .quienesSomos {
     display: flex;
     flex-direction: column;
@@ -280,7 +280,10 @@
         align-items: center;
         padding-top: 5px; }
         main .body-destacados .botonComprar .btn-light {
-          border: #fd0061 solid 3px; }
+          border: #fd0061 solid 3px;
+          width: 85px;
+          height: 40px;
+          font-size: 13px; }
           main .body-destacados .botonComprar .btn-light:hover {
             background-color: #fd0061;
             color: #fff; }
@@ -369,7 +372,8 @@
 footer {
   grid-area: footer;
   font-family: "Comic", cursive;
-  font-size: 13px; }
+  font-size: 13px;
+  margin-bottom: 90px; }
   footer .fuenteFooter {
     text-decoration: none;
     font-size: 14px; }

@@ -1,5 +1,5 @@
 {
-  "name": "tercer-entrega",
+  "name": "npm",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -296,5 +296,13 @@
     "yargs-parser": "^20.2.9",
     "y18n": "^5.0.8"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasDAlessandro/NBSStyleDAlessandro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NicolasDAlessandro/NBSStyleDAlessandro/issues"
+  },
+  "homepage": "https://github.com/NicolasDAlessandro/NBSStyleDAlessandro#readme",
   "description": ""
 }

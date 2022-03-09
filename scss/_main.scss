@@ -103,8 +103,7 @@ $encabezados: (
         border: $colorRosa solid 3px;
         width: 65px;
         height: 30px;
-        font-size: 8.1px;
-        
+        font-size: 8.2px;        
       }
     }
   }
@@ -323,6 +322,9 @@ $encabezados: (
         padding-top: 5px;
         .btn-light {
           border: $colorRosa solid 3px;
+          width: 85px;
+          height: 40px;
+          font-size: 13px; 
           &:hover {
             background-color: $colorRosa;
             color: #fff;
